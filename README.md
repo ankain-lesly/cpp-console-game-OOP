@@ -8,12 +8,22 @@ A robot cleaner Console game in cpp
 - Level Select
 - Next, Save, Replay and Exit
 
+# Levels
+
+- Demo Level
+- Level One
+- Level Two
+
+---
+
 ## Structure
 
 - dec.h contains header files and class to method definitions
 - def.cpp contains all class member properties and method implementation
 - master.cpp contains game levels and a master class for adding game levels
 - game.cpp where the game is initialized
+
+---
 
 ```
   *****************
