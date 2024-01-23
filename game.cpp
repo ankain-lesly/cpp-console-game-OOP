@@ -3,7 +3,7 @@
 
 /**
  * CPP Console Game
- * @author Lesly Chuo
+ * @author Lesly Chuo <leeleslyank@gmail.com>
  *
  */
 
