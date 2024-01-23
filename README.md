@@ -2,6 +2,10 @@
 
 A robot cleaner Console game in cpp
 
+## Game Play - Screenshot
+
+![Game play](./assets/2024-01-23_203315.png)
+
 ## Features
 
 - Content Menu
